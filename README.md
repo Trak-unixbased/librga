@@ -1,5 +1,13 @@
 ## librga
 
+Le RGA (Raster Graphic Acceleration Unit) est un accélérateur matériel 2D indépendant, conçu pour accélérer les opérations graphiques 2D courantes, telles que le tracé de points ou de lignes, 
+le redimensionnement d'images, la rotation, le « bitBlt » (transfert de blocs de pixels) et le mélange alpha (alpha blending). Le code présent dans ce dépôt implémente un pilote en espace 
+utilisateur pour le RGA et fournit un ensemble d'API permettant d'effectuer ces opérations graphiques 2D.
+
+
+
+## librga
+
 RGA (Raster Graphic Acceleration Unit)是一个独立的2D硬件加速器，可用于加速点/线绘制，执行图像缩放、旋转、bitBlt、alpha混合等常见的2D图形操作。本仓库代码实现了RGA用户空间驱动，并提供了一系列2D图形操作API。
 
 ### 版本说明
